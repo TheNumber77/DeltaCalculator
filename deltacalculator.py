@@ -1,7 +1,7 @@
 linha = '-' * 42
 titulo = 'DELTA CALCULATOR'
 print(linha)
-print(titulo.center(50))
+print(titulo.center(42))
 print(linha)
 a = int(input('digite o valor de "a": '))
 b = int(input('digite o valor de "b": '))
